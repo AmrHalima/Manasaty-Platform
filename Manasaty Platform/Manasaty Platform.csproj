@@ -52,11 +52,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\Assignment.cs" />
-    <Compile Include="Models\Assistant.cs" />
-    <Compile Include="Models\Quiz.cs" />
-    <Compile Include="Models\Student.cs" />
-    <Compile Include="Models\Teacher.cs" />
+    <Compile Include="Models\Activity.cs" />
+    <Compile Include="Models\concrete classes\Exercise.cs" />
+    <Compile Include="Models\concrete classes\Assistant.cs" />
+    <Compile Include="Models\concrete classes\Chapter.cs" />
+    <Compile Include="Models\concrete classes\Quiz.cs" />
+    <Compile Include="Models\concrete classes\Student.cs" />
+    <Compile Include="Models\concrete classes\Teacher.cs" />
+    <Compile Include="Models\User.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Views\AssisHomeForm.cs">
