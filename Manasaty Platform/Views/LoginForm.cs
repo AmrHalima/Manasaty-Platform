@@ -16,5 +16,10 @@ namespace Manasaty_Platform.Views
         {
             InitializeComponent();
         }
+
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
