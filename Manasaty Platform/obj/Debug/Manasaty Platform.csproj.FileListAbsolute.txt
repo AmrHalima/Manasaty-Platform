@@ -21,3 +21,5 @@ D:\windows form programs\Manasaty_platform\Manasaty Platform\obj\Debug\Manasaty 
 D:\windows form programs\Manasaty_platform\Manasaty Platform\obj\Debug\Manasaty.DC9A6077.Up2Date
 D:\windows form programs\Manasaty_platform\Manasaty Platform\obj\Debug\Manasaty Platform.exe
 D:\windows form programs\Manasaty_platform\Manasaty Platform\obj\Debug\Manasaty Platform.pdb
+D:\windows form programs\Manasaty_platform\Manasaty Platform\obj\Debug\Manasaty_Platform.Views.RegisterForm.resources
+D:\windows form programs\Manasaty_platform\Manasaty Platform\obj\Debug\Manasaty_Platform.Views.StudentHomeForm.resources
