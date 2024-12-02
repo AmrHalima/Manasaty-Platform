@@ -100,9 +100,16 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Views\LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\StuHomeForm.resx">
+      <DependentUpon>StuHomeForm.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -120,6 +127,12 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\futuristic-football-soccer-player-with-glowing-lights %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\futuristic-football-soccer-player-with-glowing-lights.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
