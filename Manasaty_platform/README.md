@@ -1,1 +1,0 @@
-# Manasaty-Platform
