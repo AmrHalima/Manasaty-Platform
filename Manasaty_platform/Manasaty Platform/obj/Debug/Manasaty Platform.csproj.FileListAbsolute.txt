@@ -1,0 +1,23 @@
+C:\Users\meroz\source\repos\Manasaty Platform\bin\Debug\Manasaty Platform.exe.config
+C:\Users\meroz\source\repos\Manasaty Platform\bin\Debug\Manasaty Platform.exe
+C:\Users\meroz\source\repos\Manasaty Platform\bin\Debug\Manasaty Platform.pdb
+C:\Users\meroz\source\repos\Manasaty Platform\bin\Debug\Guna.UI2.dll
+C:\Users\meroz\source\repos\Manasaty Platform\obj\Debug\Manasaty Platform.csproj.AssemblyReference.cache
+C:\Users\meroz\source\repos\Manasaty Platform\obj\Debug\Manasaty_Platform.Properties.Resources.resources
+C:\Users\meroz\source\repos\Manasaty Platform\obj\Debug\Manasaty Platform.csproj.GenerateResource.cache
+C:\Users\meroz\source\repos\Manasaty Platform\obj\Debug\Manasaty Platform.csproj.CoreCompileInputs.cache
+C:\Users\meroz\source\repos\Manasaty Platform\obj\Debug\Manasaty.DC9A6077.Up2Date
+C:\Users\meroz\source\repos\Manasaty Platform\obj\Debug\Manasaty Platform.exe
+C:\Users\meroz\source\repos\Manasaty Platform\obj\Debug\Manasaty Platform.pdb
+D:\windows form programs\Manasaty_platform\Manasaty Platform\bin\Debug\Manasaty Platform.exe.config
+D:\windows form programs\Manasaty_platform\Manasaty Platform\bin\Debug\Manasaty Platform.exe
+D:\windows form programs\Manasaty_platform\Manasaty Platform\bin\Debug\Manasaty Platform.pdb
+D:\windows form programs\Manasaty_platform\Manasaty Platform\bin\Debug\Guna.UI2.dll
+D:\windows form programs\Manasaty_platform\Manasaty Platform\obj\Debug\Manasaty Platform.csproj.AssemblyReference.cache
+D:\windows form programs\Manasaty_platform\Manasaty Platform\obj\Debug\Manasaty_Platform.Properties.Resources.resources
+D:\windows form programs\Manasaty_platform\Manasaty Platform\obj\Debug\Manasaty_Platform.Views.LoginForm.resources
+D:\windows form programs\Manasaty_platform\Manasaty Platform\obj\Debug\Manasaty Platform.csproj.GenerateResource.cache
+D:\windows form programs\Manasaty_platform\Manasaty Platform\obj\Debug\Manasaty Platform.csproj.CoreCompileInputs.cache
+D:\windows form programs\Manasaty_platform\Manasaty Platform\obj\Debug\Manasaty.DC9A6077.Up2Date
+D:\windows form programs\Manasaty_platform\Manasaty Platform\obj\Debug\Manasaty Platform.exe
+D:\windows form programs\Manasaty_platform\Manasaty Platform\obj\Debug\Manasaty Platform.pdb
