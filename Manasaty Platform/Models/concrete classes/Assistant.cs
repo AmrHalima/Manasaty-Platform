@@ -7,11 +7,11 @@ using static Manasaty_Platform.Models.User;
 
 namespace Manasaty_Platform.Models
 {
-    internal class Assistant
+    internal class Assistant:User
     {
         public Assistant()
         { }
-        public Assistant(int id, string name, string email, string password, Gender gender, string phone) : base(id, name, email, password, gender, phone)
+        public Assistant(int id, string firstName, string lastName, string email, string password, Gender gender, string phone, string parentPhone) : base(id, firstName, lastName, email, password, gender, phone)
         { }
     }
 }

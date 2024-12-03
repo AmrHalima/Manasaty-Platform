@@ -1,12 +1,28 @@
-﻿using System;
+﻿using Manasaty_Platform.Models;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Data.SqlClient;
 
 namespace Manasaty_Platform.Controllers
 {
     internal class UserController
     {
+        private readonly string connectionURL = "Server=Amr_Halima\\SQLEXPRESS;Database=ManasatyPlatform;Integrated Security=True;";
+        public UserController() { }
+        public void AddUser() 
+        { 
+
+        } 
+        public void UpdateUser()
+        { 
+
+        }
+        public void RemoveUser()
+        {
+
+        }
+        public List<User> GetUsers()
+        {
+            return new List<User>();//temp
+        }
     }
 }
