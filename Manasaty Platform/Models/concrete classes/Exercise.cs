@@ -8,5 +8,7 @@ namespace Manasaty_Platform.Models
 {
     internal class Exercise
     {
+        public int Id { get; set; }
+        Exercise() { }
     }
 }

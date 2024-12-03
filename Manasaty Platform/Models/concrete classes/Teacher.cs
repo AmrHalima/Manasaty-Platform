@@ -9,6 +9,7 @@ namespace Manasaty_Platform.Models
 {
     internal class Teacher:User
     {
+        public Teacher() { }
         public Teacher(int id, string name, string email, string password, Gender gender, string phone) : base(id, name, email, password, gender,phone)
         { }
     }

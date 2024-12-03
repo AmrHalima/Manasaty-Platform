@@ -52,6 +52,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\ActivityController.cs" />
+    <Compile Include="Controllers\StudentController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Models\Activity.cs" />
     <Compile Include="Models\concrete classes\Exercise.cs" />
     <Compile Include="Models\concrete classes\Assistant.cs" />
@@ -126,13 +129,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\futuristic-football-soccer-player-with-glowing-lights %282%29.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\futuristic-football-soccer-player-with-glowing-lights.jpg" />
+    <Folder Include="Resources\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

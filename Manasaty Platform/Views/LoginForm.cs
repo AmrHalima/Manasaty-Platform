@@ -11,11 +11,16 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using Manasaty_Platform.Models;
 
 namespace Manasaty_Platform.Views
 {
     public partial class LoginForm : Form
     {
+        Student student = new Student();
+        Teacher teacher = new Teacher();
+        Assistant assistant = new Assistant();
+
         public LoginForm()
         {
             InitializeComponent();
@@ -45,7 +50,7 @@ namespace Manasaty_Platform.Views
             }
 
             string hashedPassword = HashPassword(password);
-            StudentHomeForm studentHomeForm = new StudentHomeForm();
+            StuHomeForm studentHomeForm = new StuHomeForm();
             studentHomeForm.Show();
             this.Hide();
            // MessageBox.Show("Login successful!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
