@@ -171,6 +171,59 @@
     <Compile Include="Models\User.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UserConroles\UC_DetailsOfMyDays.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserConroles\UC_DetailsOfMyDays.Designer.cs">
+      <DependentUpon>UC_DetailsOfMyDays.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserConroles\UC_ExamsResult.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserConroles\UC_ExamsResult.Designer.cs">
+      <DependentUpon>UC_ExamsResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserConroles\UC_Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserConroles\UC_Home.Designer.cs">
+      <DependentUpon>UC_Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserConroles\UC_MyAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserConroles\UC_MyAccount.Designer.cs">
+      <DependentUpon>UC_MyAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserConroles\UC_MyCourses.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserConroles\UC_MyCourses.Designer.cs">
+      <DependentUpon>UC_MyCourses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserConroles\UC_Store.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserConroles\UC_Store.Designer.cs">
+      <DependentUpon>UC_Store.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserConroles\UC_Subscriptions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserConroles\UC_Subscriptions.Designer.cs">
+      <DependentUpon>UC_Subscriptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserConroles\UC_HomeworkResult.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserConroles\UC_HomeworkResult.Designer.cs">
+      <DependentUpon>UC_HomeworkResult.cs</DependentUpon>
+    </Compile>
     <Compile Include="Views\AssisHomeForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -203,14 +256,33 @@
     </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
+    <EmbeddedResource Include="UserConroles\UC_DetailsOfMyDays.resx">
+      <DependentUpon>UC_DetailsOfMyDays.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserConroles\UC_ExamsResult.resx">
+      <DependentUpon>UC_ExamsResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserConroles\UC_Home.resx">
+      <DependentUpon>UC_Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserConroles\UC_MyAccount.resx">
+      <DependentUpon>UC_MyAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserConroles\UC_MyCourses.resx">
+      <DependentUpon>UC_MyCourses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserConroles\UC_Store.resx">
+      <DependentUpon>UC_Store.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserConroles\UC_Subscriptions.resx">
+      <DependentUpon>UC_Subscriptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserConroles\UC_HomeworkResult.resx">
+      <DependentUpon>UC_HomeworkResult.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\AssisHomeForm.resx">
       <DependentUpon>AssisHomeForm.cs</DependentUpon>
     </EmbeddedResource>
