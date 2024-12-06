@@ -59,25 +59,5 @@ namespace Manasaty_Platform.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap futuristic_football_soccer_player_with_glowing_lights {
-            get {
-                object obj = ResourceManager.GetObject("futuristic-football-soccer-player-with-glowing-lights", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap futuristic_football_soccer_player_with_glowing_lights__2_ {
-            get {
-                object obj = ResourceManager.GetObject("futuristic-football-soccer-player-with-glowing-lights (2)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }

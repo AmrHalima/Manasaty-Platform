@@ -33,19 +33,19 @@ namespace Manasaty_Platform.Views
 
         private void Login_button_Click(object sender, EventArgs e)
         {
-            string email=Email_textbox.Text.Trim();
-            string password=Password_textbox.Text.Trim();
+            string email=emailTextbox.Text.Trim();
+            string password=passwordTextbox.Text.Trim();
             
             if(string.IsNullOrEmpty(email) || !IsValidEmail(email))
             {
                 MessageBox.Show("Please enter a valid email address.", "Invalid Email", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                Email_textbox.Focus();
+                emailTextbox.Focus();
                 return;
             }
             if(string.IsNullOrEmpty(password) || password.Length<8)
             {
                 MessageBox.Show("Password must be at least 8 characters long.", "Invalid Password", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                Password_textbox.Focus();
+                passwordTextbox.Focus();
                 return;
             }
 
@@ -84,6 +84,12 @@ namespace Manasaty_Platform.Views
             RegisterForm registerForm = new RegisterForm();
             registerForm.Show();
             this.Hide();
+        }
+
+        private void Exist_ControlBox_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            
         }
         //function to check valid data in databse
         //private bool isfound_database()
