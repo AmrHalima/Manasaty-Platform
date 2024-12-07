@@ -339,6 +339,7 @@
             this.userControlePanel.Name = "userControlePanel";
             this.userControlePanel.Size = new System.Drawing.Size(1036, 807);
             this.userControlePanel.TabIndex = 5;
+            this.userControlePanel.Paint += new System.Windows.Forms.PaintEventHandler(this.userControlePanel_Paint);
             // 
             // guna2ControlBox3
             // 
