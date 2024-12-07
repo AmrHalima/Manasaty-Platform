@@ -14,20 +14,17 @@ namespace Manasaty_Platform.Models
         public string Email { get; set; }
         public string Password { get; set; }
         public string Phone { get; set; }
-        public enum Gender
-        {
-            Male,Female
-        }
-        public Gender gender { get; set; }
+        public string Gender { get; set; }
+        
         public User() { }
-        protected User(int id,string firstName, string lastname, string email,string password,Gender gender,string phone)
+        protected User(string firstName, string lastname, string email,string password,string gender,string phone)
         {
-            Id = id;
+           // Id = id;
             FirstName = firstName;
             LastName = lastname;
             Email = email;
             Password = password;
-            this.gender = gender;
+            this.Gender = gender;
             Phone = phone;
         }
 

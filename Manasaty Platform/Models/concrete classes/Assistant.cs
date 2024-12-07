@@ -11,7 +11,7 @@ namespace Manasaty_Platform.Models
     {
         public Assistant()
         { }
-        public Assistant(int id, string firstName, string lastName, string email, string password, Gender gender, string phone, string parentPhone) : base(id, firstName, lastName, email, password, gender, phone)
+        public Assistant(int id, string firstName, string lastName, string email, string password, string gender, string phone, string parentPhone) : base(firstName, lastName, email, password, gender, phone)
         { }
     }
 }

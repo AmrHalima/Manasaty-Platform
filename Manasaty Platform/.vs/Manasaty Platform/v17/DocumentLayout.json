@@ -1,26 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\meroz\\source\\repos\\Manasaty-Platform10\\Manasaty Platform\\",
+  "WorkspaceRootPath": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|c:\\users\\meroz\\source\\repos\\manasaty-platform10\\manasaty platform\\views\\stuhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:views\\stuhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|d:\\windows form programs\\manasty_platformv3\\manasaty platform\\views\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:views\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|c:\\users\\meroz\\source\\repos\\manasaty-platform10\\manasaty platform\\views\\stuhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:views\\stuhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|c:\\users\\meroz\\source\\repos\\manasaty-platform10\\manasaty platform\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|c:\\users\\meroz\\source\\repos\\manasaty-platform10\\manasaty platform\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|d:\\windows form programs\\manasty_platformv3\\manasaty platform\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|C:\\Users\\meroz\\source\\repos\\Manasaty-Platform10\\Manasaty Platform\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\views\\stuhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:views\\stuhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|d:\\windows form programs\\manasty_platformv3\\manasaty platform\\views\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:views\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|d:\\windows form programs\\manasty_platformv3\\manasaty platform\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|d:\\windows form programs\\manasty_platformv3\\manasaty platform\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|d:\\windows form programs\\manasty_platformv3\\manasaty platform\\models\\concrete classes\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:models\\concrete classes\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|d:\\windows form programs\\manasty_platformv3\\manasaty platform\\models\\concrete classes\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:models\\concrete classes\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|d:\\windows form programs\\manasty_platformv3\\manasaty platform\\models\\concrete classes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:models\\concrete classes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|d:\\windows form programs\\manasty_platformv3\\manasaty platform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,12 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 355,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -50,65 +66,130 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StuHomeForm.cs",
-              "DocumentMoniker": "C:\\Users\\meroz\\source\\repos\\Manasaty-Platform10\\Manasaty Platform\\Views\\StuHomeForm.cs",
-              "RelativeDocumentMoniker": "Views\\StuHomeForm.cs",
-              "ToolTip": "C:\\Users\\meroz\\source\\repos\\Manasaty-Platform10\\Manasaty Platform\\Views\\StuHomeForm.cs*",
-              "RelativeToolTip": "Views\\StuHomeForm.cs*",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T16:04:07.183Z",
+              "WhenOpened": "2024-12-07T21:11:31.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StuHomeForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\meroz\\source\\repos\\Manasaty-Platform10\\Manasaty Platform\\Views\\StuHomeForm.cs",
-              "RelativeDocumentMoniker": "Views\\StuHomeForm.cs",
-              "ToolTip": "C:\\Users\\meroz\\source\\repos\\Manasaty-Platform10\\Manasaty Platform\\Views\\StuHomeForm.cs [Design]*",
-              "RelativeToolTip": "Views\\StuHomeForm.cs [Design]*",
+              "DocumentIndex": 6,
+              "Title": "Assistant.cs",
+              "DocumentMoniker": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Models\\concrete classes\\Assistant.cs",
+              "RelativeDocumentMoniker": "Models\\concrete classes\\Assistant.cs",
+              "ToolTip": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Models\\concrete classes\\Assistant.cs",
+              "RelativeToolTip": "Models\\concrete classes\\Assistant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T16:04:01.611Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-07T21:10:36.019Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\meroz\\source\\repos\\Manasaty-Platform10\\Manasaty Platform\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\meroz\\source\\repos\\Manasaty-Platform10\\Manasaty Platform\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Models\\concrete classes\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\concrete classes\\Teacher.cs",
+              "ToolTip": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Models\\concrete classes\\Teacher.cs",
+              "RelativeToolTip": "Models\\concrete classes\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T16:03:22.823Z",
+              "WhenOpened": "2024-12-07T21:10:28.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Models\\concrete classes\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\concrete classes\\Student.cs",
+              "ToolTip": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Models\\concrete classes\\Student.cs",
+              "RelativeToolTip": "Models\\concrete classes\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:10:15.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:07:52.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:07:39.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Views\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Views\\RegisterForm.cs",
+              "ToolTip": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Views\\RegisterForm.cs",
+              "RelativeToolTip": "Views\\RegisterForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:38:07.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\meroz\\source\\repos\\Manasaty-Platform10\\Manasaty Platform\\Views\\LoginForm.cs",
-              "RelativeDocumentMoniker": "Views\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\meroz\\source\\repos\\Manasaty-Platform10\\Manasaty Platform\\Views\\LoginForm.cs [Design]",
-              "RelativeToolTip": "Views\\LoginForm.cs [Design]",
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Views\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Views\\RegisterForm.cs",
+              "ToolTip": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Views\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "Views\\RegisterForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:43:08.803Z",
+              "WhenOpened": "2024-12-07T20:16:20.483Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\meroz\\source\\repos\\Manasaty-Platform10\\Manasaty Platform\\Views\\LoginForm.cs",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Views\\LoginForm.cs",
               "RelativeDocumentMoniker": "Views\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\meroz\\source\\repos\\Manasaty-Platform10\\Manasaty Platform\\Views\\LoginForm.cs",
-              "RelativeToolTip": "Views\\LoginForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBUAAAAAAAAA",
+              "ToolTip": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Views\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Views\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:43:17.772Z"
+              "WhenOpened": "2024-12-07T20:16:09.325Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StuHomeForm.cs [Design]",
+              "DocumentMoniker": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Views\\StuHomeForm.cs",
+              "RelativeDocumentMoniker": "Views\\StuHomeForm.cs",
+              "ToolTip": "D:\\windows form programs\\Manasty_platformV3\\Manasaty Platform\\Views\\StuHomeForm.cs [Design]",
+              "RelativeToolTip": "Views\\StuHomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:04:01.611Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

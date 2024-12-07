@@ -215,3 +215,88 @@ C:\Users\meroz\source\repos\Manasaty-Platform10\Manasaty Platform\obj\Debug\Mana
 C:\Users\meroz\source\repos\Manasaty-Platform10\Manasaty Platform\obj\Debug\Manasaty.DC9A6077.Up2Date
 C:\Users\meroz\source\repos\Manasaty-Platform10\Manasaty Platform\obj\Debug\Manasaty Platform.exe
 C:\Users\meroz\source\repos\Manasaty-Platform10\Manasaty Platform\obj\Debug\Manasaty Platform.pdb
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Manasaty Platform.exe.config
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Manasaty Platform.exe
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Manasaty Platform.pdb
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Azure.Core.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Azure.Identity.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Guna.UI2.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.Identity.Client.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Buffers.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.ClientModel.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Memory.Data.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Memory.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Numerics.Vectors.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Security.AccessControl.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Security.Permissions.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Security.Principal.Windows.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Text.Encodings.Web.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Text.Json.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.ValueTuple.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Azure.Core.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Azure.Identity.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.Identity.Client.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Buffers.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.ClientModel.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Memory.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Memory.Data.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Numerics.Vectors.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Security.AccessControl.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Security.Permissions.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Security.Principal.Windows.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Text.Encodings.Web.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Text.Json.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\System.ValueTuple.xml
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\obj\Debug\Manasaty Platform.csproj.AssemblyReference.cache
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\obj\Debug\Manasaty_Platform.Properties.Resources.resources
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\obj\Debug\Manasaty_Platform.Views.AssisHomeForm.resources
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\obj\Debug\Manasaty_Platform.Views.LoginForm.resources
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\obj\Debug\Manasaty_Platform.Views.RegisterForm.resources
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\obj\Debug\Manasaty_Platform.Views.StuHomeForm.resources
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\obj\Debug\Manasaty Platform.csproj.GenerateResource.cache
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\obj\Debug\Manasaty Platform.csproj.CoreCompileInputs.cache
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\obj\Debug\Manasaty.DC9A6077.Up2Date
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\obj\Debug\Manasaty Platform.exe
+D:\windows form programs\Manasty_platformV3\Manasaty Platform\obj\Debug\Manasaty Platform.pdb

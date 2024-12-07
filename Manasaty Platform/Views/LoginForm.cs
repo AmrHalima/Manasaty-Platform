@@ -50,10 +50,17 @@ namespace Manasaty_Platform.Views
             }
 
             string hashedPassword = HashPassword(password);
-            StuHomeForm studentHomeForm = new StuHomeForm();
-            studentHomeForm.Show();
-            this.Hide();
-           // MessageBox.Show("Login successful!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            if (IsStudent_found(email, password))
+            {
+                StuHomeForm studentHomeForm = new StuHomeForm();
+                studentHomeForm.Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Invalid email or password. Please try again.", "Authentication Failed", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            // MessageBox.Show("Login successful!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         //function to check isvalidemail
@@ -92,8 +99,36 @@ namespace Manasaty_Platform.Views
             
         }
         //function to check valid data in databse
-        //private bool isfound_database()
+        private bool IsStudent_found(string email, string hashedPassword)
+        {
+
+            string connectionURL = "Server=DESKTOP-EVNJELC\\SQLEXPRESS;Database=ManasatyPlatform;Trusted_Connection=True;";
+
+            try
+            {
+                using (SqlConnection connection = new SqlConnection(connectionURL))
+                {
+                    connection.Open();
+
+                    string query = "SELECT COUNT(*) FROM STUDENT WHERE EMAIL = @EMAIL AND PASSWORD = @PASSWORD";
+                    using (SqlCommand command = new SqlCommand(query, connection))
+                    {
+                        command.Parameters.AddWithValue("@EMAIL", email);
+                        command.Parameters.AddWithValue("@PASSWORD", hashedPassword);
+
+                        int count = (int)command.ExecuteScalar();
+                        return count > 0;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"An error occurred while connecting to the database: {ex.Message}", "Database Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+        }
+        //function to check if the Teacher or Assistant data found in database or not
     }
-    
+
 }
 
