@@ -9,7 +9,8 @@ namespace Manasaty_Platform.Models
     internal abstract class User
     {
         public int Id { get; set; }
-        public string Name { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
         public string Phone { get; set; }
@@ -18,10 +19,12 @@ namespace Manasaty_Platform.Models
             Male,Female
         }
         public Gender gender { get; set; }
-        protected User(int id,string name,string email,string password,Gender gender,string phone)
+        public User() { }
+        protected User(int id,string firstName, string lastname, string email,string password,Gender gender,string phone)
         {
             Id = id;
-            Name = name;
+            FirstName = firstName;
+            LastName = lastname;
             Email = email;
             Password = password;
             this.gender = gender;

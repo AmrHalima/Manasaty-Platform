@@ -9,9 +9,12 @@ namespace Manasaty_Platform.Models
     internal class Student:User
     {
        
-        private string ParentPhone {  get; set; }
+        public string ParentPhone {  get; set; }
         
-        public Student(int id, string name, string email, string password, Gender gender,string phone,string parentPhone) :base(id,name,email,password,gender, phone)
+        public Student()
+        {
+        }
+        public Student(int id, string firstName, string lastName, string email, string password, Gender gender,string phone,string parentPhone) :base(id,firstName,lastName,email,password,gender, phone)
         {
             
             ParentPhone = parentPhone;

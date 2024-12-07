@@ -8,5 +8,6 @@ namespace Manasaty_Platform.Models
 {
     internal class Quiz
     {
+        public Quiz() { }
     }
 }

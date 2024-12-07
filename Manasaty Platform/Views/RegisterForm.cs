@@ -16,5 +16,12 @@ namespace Manasaty_Platform.Views
         {
             InitializeComponent();
         }
+
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+            LoginForm loginForm = new LoginForm();
+            loginForm.Show();
+            this.Hide();
+        }
     }
 }
