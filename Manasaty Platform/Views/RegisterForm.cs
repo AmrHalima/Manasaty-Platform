@@ -11,6 +11,7 @@ using System.Windows.Forms;
 using Manasaty_Platform.Models;
 using Manasaty_Platform.Controllers;
 
+
 namespace Manasaty_Platform.Views
 {
     public partial class RegisterForm : Form
@@ -22,9 +23,9 @@ namespace Manasaty_Platform.Views
 
         private void Create_Button_Click(object sender, EventArgs e)
         {
-            string Fname = firstname_TextBox.Text.Trim();
-            string Sname = secondname_textbox.Text.Trim();
-            string email = email_TextBox.Text.Trim();
+            string Fname = firstname_TextBox.Text.Trim().ToLower();
+            string Sname = secondname_textbox.Text.Trim().ToLower();
+            string email = email_TextBox.Text.Trim().ToLower();
             string password = password_TextBox.Text.Trim();
             string gender = gender_ComboBox.SelectedItem?.ToString();
             string phone = phone_TextBox.Text.Trim();
@@ -42,7 +43,7 @@ namespace Manasaty_Platform.Views
                 secondname_textbox.Focus();
                 return;
             }
-            if (string.IsNullOrEmpty(email) || !IsValidEmail(email))
+            if (string.IsNullOrEmpty(email) || !User.IsValidEmail(email))
             {
                 MessageBox.Show("Please enter a valid email address.", "Invalid Email", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 email_TextBox.Focus();
@@ -61,13 +62,13 @@ namespace Manasaty_Platform.Views
                 return;
 
             }
-            if (string.IsNullOrEmpty(phone) || phone.Length < 11 || !IsValidPhoneNumber(phone))
+            if (string.IsNullOrEmpty(phone) || phone.Length < 11 || !User.IsValidPhoneNumber(phone))
             {
                 MessageBox.Show("Please enter a phone number", "Invalid phone", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 phone_TextBox.Focus();
                 return;
             }
-            if (string.IsNullOrEmpty(parent_phone) || parent_phone.Length < 11 || !IsValidPhoneNumber(parent_phone))
+            if (string.IsNullOrEmpty(parent_phone) || parent_phone.Length < 11 || !User.IsValidPhoneNumber(parent_phone))
             {
                 MessageBox.Show("Please enter a parent phone number", "Invalid parent phone", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 Parentphone_TextBox.Focus();
@@ -75,27 +76,12 @@ namespace Manasaty_Platform.Views
             }
             Student student = new Student(Fname,Sname,email,password,gender,phone,parent_phone);
             StudentController sc = new StudentController();
+            student.Password=sc.HashPassword(student.Password);
             sc.AddStudent(student);
-
-            MessageBox.Show("your account created succesfully", "Succesfully created", MessageBoxButtons.OK, MessageBoxIcon.None);
             LoginForm loginForm = new LoginForm();
             loginForm.Show();
             this.Hide();
         }
-        private bool IsValidEmail(string email)
-        {
-            // Regular expression for validating email
-            string pattern = @"^[^@\s]+@[^@\s]+\.[^@\s]+$";
-            return Regex.IsMatch(email, pattern);
-        }
-
-        private static bool IsValidPhoneNumber(string phoneNumber)
-        {
-            // Define the phone number pattern
-            string pattern = @"^01[0-2|5]\d{8}$";
-
-            // Check if the input matches the pattern
-            return Regex.IsMatch(phoneNumber, pattern);
-        }
+        
     }
 }

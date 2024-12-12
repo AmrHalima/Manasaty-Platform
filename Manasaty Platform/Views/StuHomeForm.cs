@@ -1,16 +1,20 @@
 ﻿using System;
 using System.Web.UI.Design.WebControls;
 using System.Windows.Forms;
+using Manasaty_Platform.Models;
 
 namespace Manasaty_Platform.Views
 {
     public partial class StuHomeForm : Form
     {
+        Student student = new Student();
         public StuHomeForm()
         {
             InitializeComponent();
            
-            
+            student = LoginForm.student;
+
+
         }
 
     
@@ -76,6 +80,11 @@ namespace Manasaty_Platform.Views
         private void userControlePanel_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void StuHomeForm_Load(object sender, EventArgs e)
+        {
+            greating.Text = greating.Text+student.FirstName+student.LastName;
         }
     }
 }
