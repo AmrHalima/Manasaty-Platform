@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|c:\\users\\amr_halima\\source\\repos\\manasaty-platform\\manasaty platform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|c:\\users\\amr_halima\\source\\repos\\manasaty-platform\\manasaty platform\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|c:\\users\\amr_halima\\source\\repos\\manasaty-platform\\manasaty platform\\views\\stuhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:views\\stuhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\views\\stuhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:views\\stuhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|c:\\users\\amr_halima\\source\\repos\\manasaty-platform\\manasaty platform\\views\\stuhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:views\\stuhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\views\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:views\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\views\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:views\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CFCB779-9F8F-4258-BC98-9FF8AFDB8AB2}|Manasaty Platform.csproj|solutionrelative:views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,21 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 355,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T14:26:22.524Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -70,79 +57,97 @@
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "StuHomeForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\StuHomeForm.cs",
               "RelativeDocumentMoniker": "Views\\StuHomeForm.cs",
-              "ToolTip": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\StuHomeForm.cs [Design]*",
-              "RelativeToolTip": "Views\\StuHomeForm.cs [Design]*",
+              "ToolTip": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\StuHomeForm.cs [Design]",
+              "RelativeToolTip": "Views\\StuHomeForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T14:15:25.593Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "StuHomeForm.cs",
               "DocumentMoniker": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\StuHomeForm.cs",
               "RelativeDocumentMoniker": "Views\\StuHomeForm.cs",
-              "ToolTip": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\StuHomeForm.cs*",
-              "RelativeToolTip": "Views\\StuHomeForm.cs*",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwv1YAAABNAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\StuHomeForm.cs",
+              "RelativeToolTip": "Views\\StuHomeForm.cs",
+              "ViewState": "AgIAAHQAAACAMzMzMzMjwF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T14:22:04.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAIYAAAAANTMzMzMuwEgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:27:38.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\LoginForm.cs",
               "RelativeDocumentMoniker": "Views\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\LoginForm.cs*",
-              "RelativeToolTip": "Views\\LoginForm.cs*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\LoginForm.cs",
+              "RelativeToolTip": "Views\\LoginForm.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwEEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T17:52:12.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\LoginForm.cs",
-              "RelativeDocumentMoniker": "Views\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\LoginForm.cs [Design]*",
-              "RelativeToolTip": "Views\\LoginForm.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T17:48:47.366Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegisterForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "Views\\RegisterForm.cs",
-              "ToolTip": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\RegisterForm.cs [Design]",
-              "RelativeToolTip": "Views\\RegisterForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T13:50:24.755Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "RegisterForm.cs",
               "DocumentMoniker": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\RegisterForm.cs",
               "RelativeDocumentMoniker": "Views\\RegisterForm.cs",
               "ToolTip": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\RegisterForm.cs",
               "RelativeToolTip": "Views\\RegisterForm.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowBwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T17:50:06.932Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:26:22.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Views\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Amr_Halima\\source\\repos\\Manasaty-Platform\\Manasaty Platform\\Views\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Views\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:48:47.366Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

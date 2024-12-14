@@ -1,4 +1,5 @@
 ﻿using Manasaty_Platform.Models;
+using Manasaty_Platform.Models.concrete_classes;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -28,8 +29,48 @@ namespace Manasaty_Platform.Controllers
                 return BitConverter.ToString(hashBytes).Replace("-", "").ToLowerInvariant();
             }
         }
+        public List<Chapter> EnrolledIn(Student student)
+        {
+            var chapters = new List<Chapter>();
+
+            // SQL query to get chapters the student has taken
+            string query = "select NAME,DESCRIPTION,DURATION,LINK from CHAPTER join CHAPTER_TOKEN on CHAPTER.NAME=CHAPTER_TOKEN.CHAPTERNAME WHERE STUDENTID= @ID";
+
+            using (SqlConnection connection = new SqlConnection(connectionURL))
+            {
+                SqlCommand command = new SqlCommand(query, connection);
+                command.Parameters.AddWithValue("@ID", student.Id);
+
+                try
+                {
+                    connection.Open();
+                    SqlDataReader reader = command.ExecuteReader();
+
+                    while (reader.Read())
+                    {
+                        chapters.Add(/*reader["CHAPTERNAME"].ToString()*/
+                            new Chapter 
+                            {
+                               Title= reader.GetString(reader.GetOrdinal("NAME")),
+                               Description= reader.GetString(reader.GetOrdinal("DESCRIPTION")),
+                               Duration = TimeSpan.Parse(reader.GetString(reader.GetOrdinal("DURATION"))),
+                               Link= reader.GetString(reader.GetOrdinal("LINK")),
+                            });
+                    }
+
+                    reader.Close();
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Error: " + ex.Message);
+                }
+            }
+
+            return chapters;
+        }
         internal Student StudentFound(string email, string password)
         {
+            password=HashPassword(password);
             try
             {
                 using (SqlConnection connection = new SqlConnection(connectionURL))
