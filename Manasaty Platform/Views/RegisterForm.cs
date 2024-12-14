@@ -1,15 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using Manasaty_Platform.Models;
+using System.Xml.Linq;
 using Manasaty_Platform.Controllers;
+using Manasaty_Platform.Models;
 
 
 namespace Manasaty_Platform.Views
@@ -55,7 +49,7 @@ namespace Manasaty_Platform.Views
                 password_TextBox.Focus();
                 return;
             }
-            if (string.IsNullOrEmpty(gender) )
+            if (string.IsNullOrEmpty(gender))
             {
                 MessageBox.Show("Enter all valid data", "Invalid Gender", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 gender_ComboBox.Focus();
@@ -74,14 +68,33 @@ namespace Manasaty_Platform.Views
                 Parentphone_TextBox.Focus();
                 return;
             }
-            Student student = new Student(Fname,Sname,email,password,gender,phone,parent_phone);
+            Student student = new Student(Fname, Sname, email, password, gender, phone, parent_phone);
             StudentController sc = new StudentController();
-            student.Password=sc.HashPassword(student.Password);
+            student.Password = sc.HashPassword(student.Password);
             sc.AddStudent(student);
             LoginForm loginForm = new LoginForm();
             loginForm.Show();
             this.Hide();
         }
+
+        private void firstname_TextBox_Validating(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            if (string.IsNullOrEmpty(firstname_TextBox.Text))
+            {
+                firstname_TextBox.PlaceholderText = "First name *";
+                firstname_TextBox.PlaceholderForeColor = Color.Red;                
+            }
+        }
+
+        private void secondname_textbox_Validating(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            if (string.IsNullOrEmpty(secondname_textbox.Text))
+            {
+                firstname_TextBox.PlaceholderText = "Second name *";
+                firstname_TextBox.PlaceholderForeColor = Color.Red;
+            }
+        }
+
         
     }
 }

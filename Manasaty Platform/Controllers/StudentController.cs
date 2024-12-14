@@ -1,11 +1,11 @@
-﻿using Manasaty_Platform.Models;
-using Manasaty_Platform.Models.concrete_classes;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Security.Cryptography;
 using System.Text;
 using System.Windows.Forms;
+using Manasaty_Platform.Models;
+using Manasaty_Platform.Models.concrete_classes;
 
 namespace Manasaty_Platform.Controllers
 {
@@ -15,7 +15,7 @@ namespace Manasaty_Platform.Controllers
         private readonly string connectionURL = "Server=AMRHALIMALAPTOP\\SQLEXPRESS;Database=ManasatyPlatform;Trusted_Connection=True;";
         //private readonly string connectionURL = "Server=DESKTOP-EVNJELC\\SQLEXPRESS;Database=ManasatyPlatform;Trusted_Connection=True;";
         public StudentController() { }
-        internal string HashPassword( string password)
+        internal string HashPassword(string password)
         {
             using (var sha256 = SHA256.Create())
             {
@@ -49,12 +49,12 @@ namespace Manasaty_Platform.Controllers
                     while (reader.Read())
                     {
                         chapters.Add(/*reader["CHAPTERNAME"].ToString()*/
-                            new Chapter 
+                            new Chapter
                             {
-                               Title= reader.GetString(reader.GetOrdinal("NAME")),
-                               Description= reader.GetString(reader.GetOrdinal("DESCRIPTION")),
-                               Duration = TimeSpan.Parse(reader.GetString(reader.GetOrdinal("DURATION"))),
-                               Link= reader.GetString(reader.GetOrdinal("LINK")),
+                                Title = reader.GetString(reader.GetOrdinal("NAME")),
+                                Description = reader.GetString(reader.GetOrdinal("DESCRIPTION")),
+                                Duration = TimeSpan.Parse(reader.GetString(reader.GetOrdinal("DURATION"))),
+                                Link = reader.GetString(reader.GetOrdinal("LINK")),
                             });
                     }
 
@@ -70,7 +70,7 @@ namespace Manasaty_Platform.Controllers
         }
         internal Student StudentFound(string email, string password)
         {
-            password=HashPassword(password);
+            password = HashPassword(password);
             try
             {
                 using (SqlConnection connection = new SqlConnection(connectionURL))
@@ -143,7 +143,7 @@ namespace Manasaty_Platform.Controllers
                 MessageBox.Show($"An error occurred while connecting to the database: {sqlException.Message}", "Database Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
-            catch (Exception expection)
+            catch (Exception)
             {
                 MessageBox.Show("error while adding a student");
                 return;
@@ -183,14 +183,14 @@ namespace Manasaty_Platform.Controllers
                     }
 
                 }
-                
+
             }
             catch (SqlException sqlException)
             {
                 MessageBox.Show($"An error occurred while connecting to the database: {sqlException.Message}", "Database Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
             }
-            catch (Exception expection)
+            catch (Exception)
             {
                 MessageBox.Show("error while adding a student");
             }

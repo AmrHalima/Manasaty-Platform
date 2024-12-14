@@ -46,7 +46,7 @@
             // 
             // Login_panel
             // 
-            this.Login_panel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(9)))), ((int)(((byte)(43)))));
+            this.Login_panel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(18)))), ((int)(((byte)(14)))), ((int)(((byte)(44)))));
             this.Login_panel.Controls.Add(this.signUpButton);
             this.Login_panel.Controls.Add(this.loginButton);
             this.Login_panel.Controls.Add(this.forgetPasswordLabel);
